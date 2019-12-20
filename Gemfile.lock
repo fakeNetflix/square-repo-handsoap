@@ -21,7 +21,7 @@ GEM
     httpclient (2.1.5.2)
     libxml-ruby (1.1.4)
     nokogiri (1.4.3.1)
-    rack (1.1.0)
+    rack (1.1.6)
     rails (2.3.10)
       actionmailer (= 2.3.10)
       actionpack (= 2.3.10)
