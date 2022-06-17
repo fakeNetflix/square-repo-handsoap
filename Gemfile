@@ -2,7 +2,7 @@ source :rubygems
 gem 'rake'
 
 group :development, :test do
-  gem 'rails', "~>2.3"
+  gem 'rails', "~>3.2"
 
   # XML parser options
   gem 'nokogiri'
